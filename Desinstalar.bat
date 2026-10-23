@@ -22,3 +22,4 @@ echo.
 echo FlowMusic 360 foi desinstalado do Flow Launcher com sucesso!
 echo.
 pause
+
