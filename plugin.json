@@ -1,0 +1,12 @@
+{
+    "ID": "360f10w0-b852-47b0-b026-5077f1982360",
+    "ActionKeyword": "m",
+    "Name": "FlowMusic 360",
+    "Description": "Reprodutor de músicas minimalista estilo Dynamic Island & MyDockFinder para Flow Launcher",
+    "Author": "FlowMusic Team",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com",
+    "IcoPath": "assets/app.png",
+    "ExecuteFileName": "main.py"
+}

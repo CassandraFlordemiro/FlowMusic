@@ -1,0 +1,13 @@
+{
+  "music_dirs": [
+    "C:\\Users\\Administrator\\Downloads\\YouTube_Music",
+    "C:\\Users\\Administrator\\Downloads\\Music"
+  ],
+  "volume": 100,
+  "shuffle": true,
+  "repeat": "all",
+  "hud_position": "top_center",
+  "hud_duration_ms": 5000,
+  "hotkeys_enabled": true,
+  "theme": "opal"
+}
